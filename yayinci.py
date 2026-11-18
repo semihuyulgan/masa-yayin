@@ -28,6 +28,8 @@ KOK = pathlib.Path(__file__).resolve().parent
 TAKVIM = KOK / "takvim.json"
 GECIKME_SINIRI = dt.timedelta(hours=24)
 BEKLENEN = "masaoyun"
+# Profil ızgarası döngüsü: her tür hep aynı sütunda kalsın diye sıra bozulmaz.
+DONGU = ["foto", "oyun", "video"]
 
 
 class ApiHatasi(Exception):
@@ -108,8 +110,25 @@ def main():
         (k for k in takvim if k["durum"] == "hazir" and dt.datetime.fromisoformat(k["zaman"]) <= simdi),
         key=lambda k: dt.datetime.fromisoformat(k["zaman"]),
     )
-    kacirilan = [k for k in zamani_gelen if simdi - dt.datetime.fromisoformat(k["zaman"]) > GECIKME_SINIRI]
+    # Döngülü (sutun alanı olan) içerik kaçırılmış sayılmaz; sırası gelince geç de olsa çıkar.
+    kacirilan = [k for k in zamani_gelen if not k.get("sutun") and simdi - dt.datetime.fromisoformat(k["zaman"]) > GECIKME_SINIRI]
     siradakiler = [k for k in zamani_gelen if k not in kacirilan]
+    son_sutun = next((k["sutun"] for k in sorted(
+        (x for x in takvim if x["durum"] == "yayinda" and x.get("sutun")),
+        key=lambda x: x.get("yayin_zamani", x["zaman"]), reverse=True)), None)
+    beklenen = DONGU[(DONGU.index(son_sutun) + 1) % 3] if son_sutun in DONGU else None
+    tutulan = []
+    secilen = []
+    for k in siradakiler:
+        if k.get("sutun") and beklenen and k["sutun"] != beklenen:
+            tutulan.append(k)
+            continue
+        secilen.append(k)
+        if k.get("sutun"):
+            beklenen = DONGU[(DONGU.index(k["sutun"]) + 1) % 3]
+    siradakiler = secilen
+    for k in tutulan:
+        print("SIRA BEKLİYOR", k["id"], k["sutun"], "beklenen:", beklenen)
     eksik = [k["id"] for k in takvim if k["durum"].endswith("-bekliyor") and dt.datetime.fromisoformat(k["zaman"]) <= simdi]
     print(f"Zamanı gelen: {len(siradakiler)}, kaçırılan: {len(kacirilan)}, görseli olmadığı için atlanan: {len(eksik)}")
     if deneme:
