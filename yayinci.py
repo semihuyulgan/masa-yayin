@@ -27,7 +27,7 @@ API = "https://graph.instagram.com"
 KOK = pathlib.Path(__file__).resolve().parent
 TAKVIM = KOK / "takvim.json"
 GECIKME_SINIRI = dt.timedelta(hours=24)
-BEKLENEN = "masaoyun"
+BEKLENEN = "17841414842373311"  # masa hesabının değişmez numarası (kullanıcı adı masaoyun → masaoyna oldu)
 # Profil ızgarası döngüsü: her tür hep aynı sütunda kalsın diye sıra bozulmaz.
 DONGU = ["foto", "oyun", "video"]
 
@@ -142,8 +142,8 @@ def main():
     token = os.environ["IG_TOKEN"]
     global IG_ID
     ben = istek("me", token=token, sorgu={"fields": "user_id,username"})
-    if ben.get("username") != BEKLENEN:
-        sys.exit(f"Token yanlış hesaba ait: {ben.get('username')}")
+    if str(ben.get("user_id")) != BEKLENEN:
+        sys.exit(f"Token yanlış hesaba ait: {ben.get('username')} ({ben.get('user_id')})")
     IG_ID = ben["user_id"]
     taban = os.environ["MEDYA_TABAN"].rstrip("/")
     hata_var = False
