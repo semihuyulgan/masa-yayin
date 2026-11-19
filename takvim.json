@@ -1,1 +1,47 @@
-[]
+[
+ {
+  "id": "sabit-3-fiyat",
+  "tur": "karusel",
+  "zaman": "2026-11-19T03:55:00+03:00",
+  "durum": "hazir",
+  "gorseller": [
+   "medya/sabit-fiyat/kare-01.jpg",
+   "medya/sabit-fiyat/kare-02.jpg",
+   "medya/sabit-fiyat/kare-03.jpg",
+   "medya/sabit-fiyat/kare-04.jpg",
+   "medya/sabit-fiyat/kare-05.jpg"
+  ],
+  "aciklama": "fiyatı soran çok, saklamıyoruz 👀\naylık 999 TL. 12 ay birlikteysek aylık 749 TL. (+KDV)\nkurulum yok, stand parası yok, sürpriz yok. tek ödediğin abonelik.\n\nbaşlamak için biyografideki linkten ya da WhatsApp'tan yaz. DM de olur.\nmasaoyna.com\n\n#masa #kafe #kafeişletmesi #restoran #masaoyunu #izmir"
+ },
+ {
+  "id": "sabit-2-ne-yapar",
+  "tur": "karusel",
+  "zaman": "2026-11-19T03:57:00+03:00",
+  "durum": "hazir",
+  "gorseller": [
+   "medya/sabit-neyapar/kare-01.jpg",
+   "medya/sabit-neyapar/kare-02.jpg",
+   "medya/sabit-neyapar/kare-03.jpg",
+   "medya/sabit-neyapar/kare-04.jpg",
+   "medya/sabit-neyapar/kare-05.jpg",
+   "medya/sabit-neyapar/kare-06.jpg"
+  ],
+  "aciklama": "boş masa para kazandırmaz. eğlenen masa kazandırır.\nmasada oyun varken kalkmak zor, kaybeden \"rövanş\" der, sipariş kasana düşer. sen ekstra hiçbir şey yapmıyorsun.\n\nmekanına masa kurmak için: masaoyna.com\n\n#masa #kafe #kafeişletmesi #restoran #masaoyunu #izmir"
+ },
+ {
+  "id": "sabit-1-nedir",
+  "tur": "karusel",
+  "zaman": "2026-11-19T03:59:00+03:00",
+  "durum": "hazir",
+  "gorseller": [
+   "medya/sabit-nedir/kare-01.jpg",
+   "medya/sabit-nedir/kare-02.jpg",
+   "medya/sabit-nedir/kare-03.jpg",
+   "medya/sabit-nedir/kare-04.jpg",
+   "medya/sabit-nedir/kare-05.jpg",
+   "medya/sabit-nedir/kare-06.jpg",
+   "medya/sabit-nedir/kare-07.jpg"
+  ],
+  "aciklama": "masa nedir? 30 saniyede anlattık, kaydır 👉\nmasana bir QR stand, müşterine 60'tan fazla oyun. uygulama indirmek yok. istersen kaybeden ısmarlar, sipariş direkt kasana düşer.\n\nmekanına masa kurmak için: masaoyna.com\n\n#masa #kafe #kafeişletmesi #restoran #masaoyunu #izmir"
+ }
+]
