@@ -49,5 +49,187 @@
   "aciklama": "masa nedir? 30 saniyede anlattık, kaydır 👉\nmasana bir QR stand, müşterine 60'tan fazla oyun. uygulama indirmek yok. istersen kaybeden ısmarlar, sipariş direkt kasana düşer.\n\nmekanına masa kurmak için: masaoyna.com\n\n#masa #kafe #kafeişletmesi #restoran #masaoyunu #izmir",
   "medya_id": "17914380429484469",
   "yayin_zamani": "2026-11-19T01:07:58.711352+00:00"
+ },
+ {
+  "id": "h1-g1-gunun-sorusu",
+  "tur": "gorsel",
+  "zaman": "2026-11-20T20:30:00+03:00",
+  "gorseller": [
+   "medya/h1/g1/kare-01.jpg"
+  ],
+  "aciklama": "sevgilin telefonunu masaya hep ters koyuyor.\n🚨 alarm mı, 😌 normal mi?\n\nyoruma tek emoji bırak. sevgilin de görsün, sorun yok 🙂\n\n#masa #kafe #masaoyunu #izmir #sevgili #ilişki",
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h01-cuma-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T21:30:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h01-cuma-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h02-cmt-ss",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T13:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h02-cmt-ss.mp4"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-g2-etiketle",
+  "tur": "gorsel",
+  "zaman": "2026-11-21T14:00:00+03:00",
+  "gorseller": [
+   "medya/h1/g2/kare-01.jpg"
+  ],
+  "aciklama": "hesap geldi, biri lavaboya kalktı. her masada aynı kişi.\no arkadaşı etiketle, kendini bilir 👀\n\nbu akşam hesabı oyun belirlesin: masaoyna.com\n\n#masa #kafe #masaoyunu #izmir #arkadaş #hesap",
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h03-cmt-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T21:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h03-cmt-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h04-paz-soru",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T13:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h04-paz-soru.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h05-paz-cevap",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T13:05:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h05-paz-cevap.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h06-paz-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T21:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h06-paz-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h07-pzt-gonder",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T13:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h07-pzt-gonder.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-g3-oknok-test",
+  "tur": "karusel",
+  "zaman": "2026-11-23T20:30:00+03:00",
+  "gorseller": [
+   "medya/h1/g3/kare-01.jpg",
+   "medya/h1/g3/kare-02.jpg",
+   "medya/h1/g3/kare-03.jpg",
+   "medya/h1/g3/kare-04.jpg",
+   "medya/h1/g3/kare-05.jpg",
+   "medya/h1/g3/kare-06.jpg",
+   "medya/h1/g3/kare-07.jpg"
+  ],
+  "aciklama": "OK mu, NOK mu? 5 soru, tek sayı 👉\nkaç tanesine OK dedin, yoruma yaz. sonra sevgiline at, onunki tutuyor mu bakalım.\n\nbunun gibi 60+ oyun kafede, masa'da. masaoyna.com\n\n#masa #kafe #masaoyunu #izmir #okmunokmu #sevgili #test",
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h08-pzt-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T21:30:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h08-pzt-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h09-sal-ss",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T13:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h09-sal-ss.mp4"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h10-sal-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T21:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h10-sal-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h11-car-soru",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T13:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h11-car-soru.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h12-car-cevap",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T13:05:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h12-car-cevap.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-r2-oknok-reels",
+  "tur": "reels",
+  "zaman": "2026-11-25T20:00:00+03:00",
+  "gorseller": [
+   "medya/h1/reels/test-oknok.mp4"
+  ],
+  "kapak_ms": 1500,
+  "aciklama": "durdurmadan oyna: 5 soru, her birine 3 saniye.\n🟢 OK mu, 🔴 NOK mu?\n\nkaç OK çıktı, yoruma yaz. sevgilinle aynı sayıyı tutturamazsanız… bu akşam konuşursunuz.\n\n#masa #kafe #masaoyunu #izmir #okmunokmu #sevgili #çift #test",
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h13-car-mekan",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T21:30:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h13-car-mekan.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h14-per-gonder",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T13:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h14-per-gonder.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-hikaye-h15-per-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T21:00:00+03:00",
+  "gorseller": [
+   "medya/h1/hikaye/h15-per-aksam.jpg"
+  ],
+  "durum": "hazir"
  }
 ]

@@ -65,12 +65,14 @@ def hazir_bekle(kap, token):
 
 
 def kap_olustur(k, taban, token):
-    if k["tur"] == "reels":
+    video = k["gorseller"][0].endswith(".mp4")
+    if video:
         # raw.githubusercontent videoyu octet-stream sunuyor; Pages video/mp4 verir.
         taban = os.environ.get("VIDEO_TABAN", taban).rstrip("/")
     adresler = [f"{taban}/{g}" for g in k["gorseller"]]
     if k["tur"] == "hikaye":
-        kap = istek(f"{IG_ID}/media", {"media_type": "STORIES", "image_url": adresler[0]}, token)["id"]
+        alan = {"media_type": "STORIES", ("video_url" if video else "image_url"): adresler[0]}
+        kap = istek(f"{IG_ID}/media", alan, token)["id"]
         hazir_bekle(kap, token)
         return kap
     if k["tur"] == "reels":
