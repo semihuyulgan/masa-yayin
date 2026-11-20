@@ -179,6 +179,24 @@
   "durum": "hazir"
  },
  {
+  "id": "h2-hikaye-h2-codex-01-telefon",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T17:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-codex-01-telefon.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-codex-02-cevap",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T17:02:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-codex-02-cevap.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "h1-g4-omubumu",
   "tur": "gorsel",
   "zaman": "2026-11-24T20:30:00+03:00",
