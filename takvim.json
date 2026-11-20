@@ -755,11 +755,11 @@
   "durum": "hazir"
  },
  {
-  "id": "z-1203-1030-k-fiyat0",
+  "id": "z-1203-1030-k-sss3",
   "tur": "hikaye",
   "zaman": "2026-12-03T10:30:00+03:00",
   "gorseller": [
-   "medya/hz/z-1203-1030-k-fiyat0.jpg"
+   "medya/hz/z-1203-1030-k-sss3.jpg"
   ],
   "durum": "hazir"
  },
@@ -791,11 +791,11 @@
   "durum": "hazir"
  },
  {
-  "id": "z-1203-2100-k-etiket0",
+  "id": "z-1203-2100-k-oyun3",
   "tur": "hikaye",
   "zaman": "2026-12-03T21:00:00+03:00",
   "gorseller": [
-   "medya/hz/z-1203-2100-k-etiket0.jpg"
+   "medya/hz/z-1203-2100-k-oyun3.jpg"
   ],
   "durum": "hazir"
  }
