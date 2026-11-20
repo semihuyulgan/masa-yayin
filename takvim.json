@@ -127,6 +127,15 @@
   "durum": "hazir"
  },
  {
+  "id": "h2-hikaye-h2-01-paz-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T21:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-01-paz-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "h1-hikaye-h07-pzt-gonder",
   "tur": "hikaye",
   "zaman": "2026-11-23T13:00:00+03:00",
@@ -167,6 +176,16 @@
   "gorseller": [
    "medya/h1/hikaye/h09-sal-ss.mp4"
   ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h1-g4-omubumu",
+  "tur": "gorsel",
+  "zaman": "2026-11-24T20:30:00+03:00",
+  "gorseller": [
+   "medya/h1/g4/kare-01.jpg"
+  ],
+  "aciklama": "lahmacun mu, pizza mı? 🍕\nortası yok. yoruma tek kelime yaz, masa sayıyor.\n\nbu oyunun adı O mu Bu mu?, kafede QR'ı okut, masada kapışın.\n\n#masa #kafe #masaoyunu #izmir #omubumu #yemek",
   "durum": "hazir"
  },
  {
@@ -226,11 +245,30 @@
   "durum": "hazir"
  },
  {
+  "id": "h1-g5-mekan",
+  "tur": "gorsel",
+  "zaman": "2026-11-26T20:30:00+03:00",
+  "gorseller": [
+   "medya/h1/g5/kare-01.jpg"
+  ],
+  "aciklama": "kafe sahibi misin? 👋\nmasana bir QR stand koyuyoruz, müşterin 60+ oyunla masada kalıyor, siparişi direkt kasana düşüyor. stand ve kurulum bizden.\n\nmasaoyna.com · WhatsApp ya da DM'den yaz.\n\n#masa #kafe #masaoyunu #izmir #kafeişletmesi #restoran",
+  "durum": "hazir"
+ },
+ {
   "id": "h1-hikaye-h15-per-aksam",
   "tur": "hikaye",
   "zaman": "2026-11-26T21:00:00+03:00",
   "gorseller": [
    "medya/h1/hikaye/h15-per-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-02-cum-ss",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T13:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-02-cum-ss.mp4"
   ],
   "durum": "hazir"
  },
@@ -243,6 +281,150 @@
   ],
   "kapak_ms": 1200,
   "aciklama": "bomba sende 💣 fitil bitmeden cevap ver.\nEge'de bir il, tekerleği olan bir şey, bir tatlı… patlamadan ne dedin? yoruma yaz 👇\n\nbu oyunun adı Bomba, kafede QR'ı okut, masa'da oyna.\n\n#masa #kafe #masaoyunu #izmir #bomba #arkadaş",
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-03-cum-aksam",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T21:30:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-03-cum-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-04-cum-cevap",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T21:32:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-04-cum-cevap.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-05-cmt-oyla",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T13:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-05-cmt-oyla.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-06-cmt-gonder",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T21:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-06-cmt-gonder.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-07-paz-soru",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T13:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-07-paz-soru.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-08-paz-cevap",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T13:02:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-08-paz-cevap.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-09-paz-mekan",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T21:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-09-paz-mekan.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-10-pzt-ss",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T13:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-10-pzt-ss.mp4"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-11-pzt-oyla",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T21:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-11-pzt-oyla.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-12-sal-gonder",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T13:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-12-sal-gonder.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-13-sal-soru",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T21:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-13-sal-soru.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-14-sal-cevap",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T21:02:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-14-sal-cevap.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-15-car-oyla",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T13:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-15-car-oyla.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-16-car-dm",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T21:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-16-car-dm.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-17-per-gonder",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T13:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-17-per-gonder.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "h2-hikaye-h2-18-per-oyla",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T21:00:00+03:00",
+  "gorseller": [
+   "medya/h2/hikaye/h2-18-per-oyla.jpg"
+  ],
   "durum": "hazir"
  }
 ]
