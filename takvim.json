@@ -116,26 +116,6 @@
   "durum": "hazir"
  },
  {
-  "id": "h1-r1-skec-hesap-geldi",
-  "tur": "reels",
-  "zaman": "2026-11-22T20:00:00+03:00",
-  "gorseller": [
-   "medya/h1/reels/skec-hesap-geldi.mp4"
-  ],
-  "kapak_ms": 2500,
-  "aciklama": "hesap geldi. masada biri eksildi. sonra herkes eksildi. 🫠\nsizin masada lavaboya ilk kim kalkar? etiketle.\n\n#masa #kafe #masaoyunu #izmir #arkadaş #hesap #claymation",
-  "durum": "hazir"
- },
- {
-  "id": "h1-hikaye-h06-paz-aksam",
-  "tur": "hikaye",
-  "zaman": "2026-11-22T21:00:00+03:00",
-  "gorseller": [
-   "medya/h1/hikaye/h06-paz-aksam.jpg"
-  ],
-  "durum": "hazir"
- },
- {
   "id": "h1-hikaye-h07-pzt-gonder",
   "tur": "hikaye",
   "zaman": "2026-11-23T13:00:00+03:00",
@@ -203,17 +183,6 @@
   "gorseller": [
    "medya/h1/hikaye/h12-car-cevap.jpg"
   ],
-  "durum": "hazir"
- },
- {
-  "id": "h1-r2-oknok-reels",
-  "tur": "reels",
-  "zaman": "2026-11-25T20:00:00+03:00",
-  "gorseller": [
-   "medya/h1/reels/test-oknok.mp4"
-  ],
-  "kapak_ms": 1500,
-  "aciklama": "durdurmadan oyna: 5 soru, her birine 3 saniye.\n🟢 OK mu, 🔴 NOK mu?\n\nkaç OK çıktı, yoruma yaz. sevgilinle aynı sayıyı tutturamazsanız… bu akşam konuşursunuz.\n\n#masa #kafe #masaoyunu #izmir #okmunokmu #sevgili #çift #test",
   "durum": "hazir"
  },
  {
