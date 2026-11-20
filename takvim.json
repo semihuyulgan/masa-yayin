@@ -51,6 +51,33 @@
   "yayin_zamani": "2026-11-19T01:07:58.711352+00:00"
  },
  {
+  "id": "z-1120-1300-kim0",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T13:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1120-1300-kim0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1120-1700-k-goz0",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1120-1700-k-goz0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1120-1900-hic0",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T19:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1120-1900-hic0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "h1-g1-gunun-sorusu",
   "tur": "gorsel",
   "zaman": "2026-11-20T20:30:00+03:00",
@@ -66,6 +93,33 @@
   "zaman": "2026-11-20T21:30:00+03:00",
   "gorseller": [
    "medya/h1/hikaye/h01-cuma-aksam.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1120-2300-tabu0",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T23:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1120-2300-tabu0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1121-1030-emoji0-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1121-1030-emoji0-1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1121-1030-emoji0-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T10:31:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1121-1030-emoji0-2.jpg"
   ],
   "durum": "hazir"
  },
@@ -89,29 +143,47 @@
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h03-cmt-aksam",
+  "id": "z-1121-1700-k-goz1",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1121-1700-k-goz1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1121-2100-anne0",
   "tur": "hikaye",
   "zaman": "2026-11-21T21:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h03-cmt-aksam.jpg"
+   "medya/hz/z-1121-2100-anne0.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h04-paz-soru",
+  "id": "z-1122-1030-k-goz2",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1122-1030-k-goz2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1122-1300-ben0",
   "tur": "hikaye",
   "zaman": "2026-11-22T13:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h04-paz-soru.jpg"
+   "medya/hz/z-1122-1300-ben0.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h05-paz-cevap",
+  "id": "z-1122-1700-sevgili0",
   "tur": "hikaye",
-  "zaman": "2026-11-22T13:05:00+03:00",
+  "zaman": "2026-11-22T17:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h05-paz-cevap.jpg"
+   "medya/hz/z-1122-1700-sevgili0.jpg"
   ],
   "durum": "hazir"
  },
@@ -127,20 +199,56 @@
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-01-paz-aksam",
+  "id": "z-1122-2100-ces0",
   "tur": "hikaye",
   "zaman": "2026-11-22T21:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-01-paz-aksam.jpg"
+   "medya/hz/z-1122-2100-ces0.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h07-pzt-gonder",
+  "id": "z-1122-2300-kim1",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T23:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1122-2300-kim1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1123-1030-k-fiyat0",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1123-1030-k-fiyat0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1123-1300-hic1",
   "tur": "hikaye",
   "zaman": "2026-11-23T13:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h07-pzt-gonder.jpg"
+   "medya/hz/z-1123-1300-hic1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1123-1900-tahmin0-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T19:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1123-1900-tahmin0-1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1123-1900-tahmin0-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T19:01:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1123-1900-tahmin0-2.jpg"
   ],
   "durum": "hazir"
  },
@@ -161,11 +269,29 @@
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h08-pzt-aksam",
+  "id": "z-1123-2130-anne1",
   "tur": "hikaye",
   "zaman": "2026-11-23T21:30:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h08-pzt-aksam.jpg"
+   "medya/hz/z-1123-2130-anne1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1124-1030-k-test0-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1124-1030-k-test0-1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1124-1030-k-test0-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T10:31:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1124-1030-k-test0-2.jpg"
   ],
   "durum": "hazir"
  },
@@ -179,20 +305,11 @@
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-codex-01-telefon",
+  "id": "z-1124-1700-tabu1",
   "tur": "hikaye",
   "zaman": "2026-11-24T17:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-codex-01-telefon.jpg"
-  ],
-  "durum": "hazir"
- },
- {
-  "id": "h2-hikaye-h2-codex-02-cevap",
-  "tur": "hikaye",
-  "zaman": "2026-11-24T17:02:00+03:00",
-  "gorseller": [
-   "medya/h2/hikaye/h2-codex-02-cevap.jpg"
+   "medya/hz/z-1124-1700-tabu1.jpg"
   ],
   "durum": "hazir"
  },
@@ -207,29 +324,56 @@
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h10-sal-aksam",
+  "id": "z-1124-2100-kim2",
   "tur": "hikaye",
   "zaman": "2026-11-24T21:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h10-sal-aksam.jpg"
+   "medya/hz/z-1124-2100-kim2.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h11-car-soru",
+  "id": "z-1124-2300-bomba0",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T23:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1124-2300-bomba0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1125-1030-onon0",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1125-1030-onon0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1125-1300-k-etiket0",
   "tur": "hikaye",
   "zaman": "2026-11-25T13:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h11-car-soru.jpg"
+   "medya/hz/z-1125-1300-k-etiket0.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h12-car-cevap",
+  "id": "z-1125-1700-emoji1-1",
   "tur": "hikaye",
-  "zaman": "2026-11-25T13:05:00+03:00",
+  "zaman": "2026-11-25T17:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h12-car-cevap.jpg"
+   "medya/hz/z-1125-1700-emoji1-1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1125-1700-emoji1-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T17:01:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1125-1700-emoji1-2.jpg"
   ],
   "durum": "hazir"
  },
@@ -245,20 +389,38 @@
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h13-car-mekan",
+  "id": "z-1125-2130-ces1",
   "tur": "hikaye",
   "zaman": "2026-11-25T21:30:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h13-car-mekan.jpg"
+   "medya/hz/z-1125-2130-ces1.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h14-per-gonder",
+  "id": "z-1126-1030-k-bos0",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1126-1030-k-bos0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1126-1300-hic2",
   "tur": "hikaye",
   "zaman": "2026-11-26T13:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h14-per-gonder.jpg"
+   "medya/hz/z-1126-1300-hic2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1126-1700-artirma0",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1126-1700-artirma0.jpg"
   ],
   "durum": "hazir"
  },
@@ -273,11 +435,20 @@
   "durum": "hazir"
  },
  {
-  "id": "h1-hikaye-h15-per-aksam",
+  "id": "z-1126-2100-ben1",
   "tur": "hikaye",
   "zaman": "2026-11-26T21:00:00+03:00",
   "gorseller": [
-   "medya/h1/hikaye/h15-per-aksam.jpg"
+   "medya/hz/z-1126-2100-ben1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1127-1030-kim3",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1127-1030-kim3.jpg"
   ],
   "durum": "hazir"
  },
@@ -287,6 +458,15 @@
   "zaman": "2026-11-27T13:00:00+03:00",
   "gorseller": [
    "medya/h2/hikaye/h2-02-cum-ss.mp4"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1127-1700-k-sss0",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1127-1700-k-sss0.jpg"
   ],
   "durum": "hazir"
  },
@@ -320,47 +500,101 @@
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-05-cmt-oyla",
+  "id": "z-1128-1030-tahmin1-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1128-1030-tahmin1-1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1128-1030-tahmin1-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T10:31:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1128-1030-tahmin1-2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1128-1300-k-oyun0",
   "tur": "hikaye",
   "zaman": "2026-11-28T13:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-05-cmt-oyla.jpg"
+   "medya/hz/z-1128-1300-k-oyun0.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-06-cmt-gonder",
+  "id": "z-1128-1700-sevgili1",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1128-1700-sevgili1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1128-2100-onon1",
   "tur": "hikaye",
   "zaman": "2026-11-28T21:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-06-cmt-gonder.jpg"
+   "medya/hz/z-1128-2100-onon1.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-07-paz-soru",
+  "id": "z-1128-2300-hic3",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T23:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1128-2300-hic3.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1129-1030-k-sss1",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1129-1030-k-sss1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1129-1300-ben2",
   "tur": "hikaye",
   "zaman": "2026-11-29T13:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-07-paz-soru.jpg"
+   "medya/hz/z-1129-1300-ben2.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-08-paz-cevap",
+  "id": "z-1129-1700-tabu2",
   "tur": "hikaye",
-  "zaman": "2026-11-29T13:02:00+03:00",
+  "zaman": "2026-11-29T17:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-08-paz-cevap.jpg"
+   "medya/hz/z-1129-1700-tabu2.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-09-paz-mekan",
+  "id": "z-1129-2100-kim4",
   "tur": "hikaye",
   "zaman": "2026-11-29T21:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-09-paz-mekan.jpg"
+   "medya/hz/z-1129-2100-kim4.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1130-1030-k-oyun1",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1130-1030-k-oyun1.jpg"
   ],
   "durum": "hazir"
  },
@@ -374,74 +608,164 @@
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-11-pzt-oyla",
+  "id": "z-1130-1700-emoji2-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1130-1700-emoji2-1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1130-1700-emoji2-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T17:01:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1130-1700-emoji2-2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1130-2100-ces2",
   "tur": "hikaye",
   "zaman": "2026-11-30T21:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-11-pzt-oyla.jpg"
+   "medya/hz/z-1130-2100-ces2.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-12-sal-gonder",
+  "id": "z-1201-1030-artirma1",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1201-1030-artirma1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1201-1300-k-sss2",
   "tur": "hikaye",
   "zaman": "2026-12-01T13:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-12-sal-gonder.jpg"
+   "medya/hz/z-1201-1300-k-sss2.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-13-sal-soru",
+  "id": "z-1201-1700-bomba1",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1201-1700-bomba1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1201-2100-hic4",
   "tur": "hikaye",
   "zaman": "2026-12-01T21:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-13-sal-soru.jpg"
+   "medya/hz/z-1201-2100-hic4.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-14-sal-cevap",
+  "id": "z-1201-2300-tahmin2-1",
   "tur": "hikaye",
-  "zaman": "2026-12-01T21:02:00+03:00",
+  "zaman": "2026-12-01T23:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-14-sal-cevap.jpg"
+   "medya/hz/z-1201-2300-tahmin2-1.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-15-car-oyla",
+  "id": "z-1201-2300-tahmin2-2",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T23:01:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1201-2300-tahmin2-2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1202-1030-k-oyun2",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1202-1030-k-oyun2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1202-1300-ben3",
   "tur": "hikaye",
   "zaman": "2026-12-02T13:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-15-car-oyla.jpg"
+   "medya/hz/z-1202-1300-ben3.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-16-car-dm",
+  "id": "z-1202-1700-tabu3",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1202-1700-tabu3.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1202-2100-kim5",
   "tur": "hikaye",
   "zaman": "2026-12-02T21:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-16-car-dm.jpg"
+   "medya/hz/z-1202-2100-kim5.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-17-per-gonder",
+  "id": "z-1203-1030-k-fiyat0",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T10:30:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1203-1030-k-fiyat0.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1203-1300-emoji3-1",
   "tur": "hikaye",
   "zaman": "2026-12-03T13:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-17-per-gonder.jpg"
+   "medya/hz/z-1203-1300-emoji3-1.jpg"
   ],
   "durum": "hazir"
  },
  {
-  "id": "h2-hikaye-h2-18-per-oyla",
+  "id": "z-1203-1300-emoji3-2",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T13:01:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1203-1300-emoji3-2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1203-1700-bomba2",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T17:00:00+03:00",
+  "gorseller": [
+   "medya/hz/z-1203-1700-bomba2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "z-1203-2100-k-etiket0",
   "tur": "hikaye",
   "zaman": "2026-12-03T21:00:00+03:00",
   "gorseller": [
-   "medya/h2/hikaye/h2-18-per-oyla.jpg"
+   "medya/hz/z-1203-2100-k-etiket0.jpg"
   ],
   "durum": "hazir"
  }
