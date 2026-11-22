@@ -250,6 +250,15 @@
   "gorseller": [
    "medya/hz/z-1123-1030-k-fiyat0.jpg"
   ],
+  "durum": "beklemede"
+ },
+ {
+  "id": "y-1123-1030-asla",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T10:30:00+03:00",
+  "gorseller": [
+   "medya/h3/y1123-1030-asla.jpg"
+  ],
   "durum": "hazir"
  },
  {
@@ -260,6 +269,24 @@
    "medya/hz/z-1123-1300-hic1.jpg"
   ],
   "durum": "beklemede"
+ },
+ {
+  "id": "y-1123-1300-k-odul",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T13:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1123-1300-k-odul.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "y-1123-1700-bomba",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T17:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1123-1700-bomba.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "z-1123-1900-tahmin0-1",
@@ -296,6 +323,25 @@
   "durum": "beklemede"
  },
  {
+  "id": "y-g1123-nedir",
+  "tur": "gorsel",
+  "zaman": "2026-11-23T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/g1123-nedir.jpg"
+  ],
+  "aciklama": "masa nedir, tek cümle: kafede masandaki QR'ı okutuyorsun, telefonunda 60'tan fazla oyun açılıyor. uygulama indirmek yok. 🎲\n\nkafe sahibiysen masalarına masa kurmak için: masaoyna.com · WhatsApp ya da DM\n\n#masa #kafe #masaoyunu #izmir #kafeişletmesi",
+  "durum": "hazir"
+ },
+ {
+  "id": "y-1123-2100-kimdaha",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T21:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1123-2100-kimdaha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "z-1123-2130-anne1",
   "tur": "hikaye",
   "zaman": "2026-11-23T21:30:00+03:00",
@@ -311,6 +357,15 @@
   "gorseller": [
    "medya/hz/z-1124-1030-k-test0-1.jpg"
   ],
+  "durum": "beklemede"
+ },
+ {
+  "id": "y-1124-1030-yabunu",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T10:30:00+03:00",
+  "gorseller": [
+   "medya/h3/y1124-1030-yabunu.jpg"
+  ],
   "durum": "hazir"
  },
  {
@@ -320,7 +375,7 @@
   "gorseller": [
    "medya/hz/z-1124-1030-k-test0-2.jpg"
   ],
-  "durum": "hazir"
+  "durum": "beklemede"
  },
  {
   "id": "h1-hikaye-h09-sal-ss",
@@ -332,6 +387,15 @@
   "durum": "beklemede"
  },
  {
+  "id": "y-1124-1300-sohbet",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T13:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1124-1300-sohbet.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "z-1124-1700-tabu1",
   "tur": "hikaye",
   "zaman": "2026-11-24T17:00:00+03:00",
@@ -339,6 +403,15 @@
    "medya/hz/z-1124-1700-tabu1.jpg"
   ],
   "durum": "beklemede"
+ },
+ {
+  "id": "y-1124-1700-tabu",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T17:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1124-1700-tabu.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "h1-g4-omubumu",
@@ -351,6 +424,16 @@
   "durum": "beklemede"
  },
  {
+  "id": "y-g1124-tanimak",
+  "tur": "gorsel",
+  "zaman": "2026-11-24T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/g1124-tanimak.jpg"
+  ],
+  "aciklama": "Beni Ne Kadar Tanıyorsun? 💕 masa'daki bu oyunda soru senin hakkında, cevabı sevgilin tahmin ediyor.\nen sevdiğin tatlı: baklava mı, sütlaç mı, tiramisu mu, dondurma mı? yoruma yaz, sevgilini etiketle, bakalım bilecek mi.\n\nkafede QR'ı okut, masa'da oyna.\n\n#masa #kafe #masaoyunu #izmir #sevgili",
+  "durum": "hazir"
+ },
+ {
   "id": "z-1124-2100-kim2",
   "tur": "hikaye",
   "zaman": "2026-11-24T21:00:00+03:00",
@@ -358,6 +441,15 @@
    "medya/hz/z-1124-2100-kim2.jpg"
   ],
   "durum": "beklemede"
+ },
+ {
+  "id": "y-1124-2100-k-odul2",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T21:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1124-2100-k-odul2.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "z-1124-2300-bomba0",
@@ -378,11 +470,38 @@
   "durum": "beklemede"
  },
  {
+  "id": "y-1125-1030-tahmin",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T10:30:00+03:00",
+  "gorseller": [
+   "medya/h3/y1125-1030-tahmin.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "y-1125-1031-tahmin-cevap",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T10:31:00+03:00",
+  "gorseller": [
+   "medya/h3/y1125-1031-tahmin-cevap.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "z-1125-1300-k-etiket0",
   "tur": "hikaye",
   "zaman": "2026-11-25T13:00:00+03:00",
   "gorseller": [
    "medya/hz/z-1125-1300-k-etiket0.jpg"
+  ],
+  "durum": "beklemede"
+ },
+ {
+  "id": "y-1125-1300-aynikafa",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T13:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1125-1300-aynikafa.jpg"
   ],
   "durum": "hazir"
  },
@@ -394,6 +513,15 @@
    "medya/hz/z-1125-1700-emoji1-1.jpg"
   ],
   "durum": "beklemede"
+ },
+ {
+  "id": "y-1125-1700-kimyazdi",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T17:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1125-1700-kimyazdi.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "z-1125-1700-emoji1-2",
@@ -413,6 +541,15 @@
   ],
   "kapak_ms": 2500,
   "aciklama": "5 soru. sevgilinle aynı anda cevapla: OK mu, NOK mu? 👀\nhangisinde tartıştınız? yoruma yaz, sevgilini de etiketle 👇\n\n#masa #kafe #masaoyunu #izmir #okmunokmu #sevgili #çift",
+  "durum": "hazir"
+ },
+ {
+  "id": "y-1125-2100-k-casus",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T21:00:00+03:00",
+  "gorseller": [
+   "medya/h3/y1125-2100-k-casus.jpg"
+  ],
   "durum": "hazir"
  },
  {
@@ -459,6 +596,16 @@
    "medya/h1/g5/kare-01.jpg"
   ],
   "aciklama": "kafe sahibi misin? 👋\nmasana bir QR stand koyuyoruz, müşterin 60+ oyunla masada kalıyor, siparişi direkt kasana düşüyor. stand ve kurulum bizden.\n\nmasaoyna.com · WhatsApp ya da DM'den yaz.\n\n#masa #kafe #masaoyunu #izmir #kafeişletmesi #restoran",
+  "durum": "beklemede"
+ },
+ {
+  "id": "y-g1126-kafe",
+  "tur": "gorsel",
+  "zaman": "2026-11-26T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/g1126-kafe.jpg"
+  ],
+  "aciklama": "kafe sahibi misin? 👋 masalarına bir QR stand koyuyoruz; müşterilerin Casus Kim?, Tabu, Bomba gibi 60'tan fazla oyunu kendi telefonundan oynuyor. istersen kaybeden ısmarlar, sipariş direkt kasana düşer.\nstand ve kurulum bizden. aylık 999 TL, 12 ay birlikteysek aylık 749 TL (+KDV).\n\nmasaoyna.com · WhatsApp ya da DM\n\n#masa #kafe #masaoyunu #izmir #kafeişletmesi #restoran",
   "durum": "hazir"
  },
  {
