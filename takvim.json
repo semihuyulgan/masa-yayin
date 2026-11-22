@@ -432,7 +432,7 @@
   "gorseller": [
    "medya/h3/g1124-tanimak.jpg"
   ],
-  "aciklama": "Beni Ne Kadar Tanıyorsun? 💕 masa'daki bu oyunda soru senin hakkında, cevabı sevgilin tahmin ediyor.\nen sevdiğin tatlı: baklava mı, sütlaç mı, tiramisu mu, dondurma mı? yoruma yaz, sevgilini etiketle, bakalım bilecek mi.\n\nkafede QR'ı okut, masa'da oyna.\n\n#masa #kafe #masaoyunu #izmir #sevgili",
+  "aciklama": "sevgilin seni ne kadar tanıyor? 💕\nen sevdiğin tatlı hangisi: baklava, sütlaç, tiramisu, dondurma? yoruma yaz, sevgilini etiketle, bakalım bilecek mi.\n\nbu oyun ve daha fazlası masa olan kafelerde.\n\n#masa #kafe #masaoyunu #izmir #sevgili",
   "durum": "hazir"
  },
  {
@@ -654,7 +654,7 @@
    "medya/h2/reels/bomba.mp4"
   ],
   "kapak_ms": 1200,
-  "aciklama": "bomba sende 💣 fitil bitmeden cevap ver.\nEge'de bir il, tekerleği olan bir şey, bir tatlı… patlamadan ne dedin? yoruma yaz 👇\n\nbu oyunun adı Bomba, kafede QR'ı okut, masa'da oyna.\n\n#masa #kafe #masaoyunu #izmir #bomba #arkadaş",
+  "aciklama": "bomba sende 💣 fitil bitmeden cevap ver.\nEge'de bir il, tekerleği olan bir şey, bir tatlı… patlamadan ne dedin? yoruma yaz 👇\n\nbu oyunun adı Bomba. masa olan kafelerde oynanıyor.\n\n#masa #kafe #masaoyunu #izmir #bomba #arkadaş",
   "durum": "hazir"
  },
  {
@@ -973,6 +973,68 @@
   "gorseller": [
    "medya/hz/z-1203-2100-k-oyun3.jpg"
   ],
+  "durum": "hazir"
+ },
+ {
+  "id": "y-k1128-nasil",
+  "tur": "karusel",
+  "zaman": "2026-11-28T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/karusel/nasil/kare-01.jpg",
+   "medya/h3/karusel/nasil/kare-02.jpg",
+   "medya/h3/karusel/nasil/kare-03.jpg",
+   "medya/h3/karusel/nasil/kare-04.jpg",
+   "medya/h3/karusel/nasil/kare-05.jpg",
+   "medya/h3/karusel/nasil/kare-06.jpg"
+  ],
+  "aciklama": "masa nasıl çalışır? kaydır 👉\n\nkafe sahibiysen masalarına masa kurmak için: masaoyna.com · WhatsApp ya da DM\n\n#masa #kafe #masaoyunu #izmir #kafeişletmesi",
+  "durum": "hazir"
+ },
+ {
+  "id": "y-g1129-asmaca",
+  "tur": "gorsel",
+  "zaman": "2026-11-29T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/karusel/asmaca/kare-01.jpg"
+  ],
+  "aciklama": "3 hakkın kaldı. cevabı yoruma yaz 👇\n\n#masa #kafe #masaoyunu #izmir #adamasmaca",
+  "durum": "hazir"
+ },
+ {
+  "id": "y-k1130-casus",
+  "tur": "karusel",
+  "zaman": "2026-11-30T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/karusel/casus/kare-01.jpg",
+   "medya/h3/karusel/casus/kare-02.jpg",
+   "medya/h3/karusel/casus/kare-03.jpg",
+   "medya/h3/karusel/casus/kare-04.jpg"
+  ],
+  "aciklama": "aranızdaki casusu bulabilir misiniz? 🕵️\nsizin masada casus kim olurdu? etiketle 👇\n\n#masa #kafe #masaoyunu #izmir #casuskim",
+  "durum": "hazir"
+ },
+ {
+  "id": "y-k1201-kimyazdi",
+  "tur": "karusel",
+  "zaman": "2026-12-01T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/karusel/kimyazdi/kare-01.jpg",
+   "medya/h3/karusel/kimyazdi/kare-02.jpg"
+  ],
+  "aciklama": "masada herkes isimsiz yazıyor, sonra kimin yazdığını tahmin ediyorsunuz 😳\nsenin en saçma çocukluk anın ne? yoruma yaz 👇\n\n#masa #kafe #masaoyunu #izmir",
+  "durum": "hazir"
+ },
+ {
+  "id": "y-k1203-benkimim",
+  "tur": "karusel",
+  "zaman": "2026-12-03T20:30:00+03:00",
+  "gorseller": [
+   "medya/h3/karusel/benkimim/kare-01.jpg",
+   "medya/h3/karusel/benkimim/kare-02.jpg",
+   "medya/h3/karusel/benkimim/kare-03.jpg",
+   "medya/h3/karusel/benkimim/kare-04.jpg"
+  ],
+  "aciklama": "Deniz 5 tane bildi. sen Temel Reis'i adını söylemeden nasıl anlatırdın? 👇\n\n#masa #kafe #masaoyunu #izmir #benkimim",
   "durum": "hazir"
  }
 ]
